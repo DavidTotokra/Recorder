@@ -1,6 +1,6 @@
 # Audiorecorder 
 With the help of the audio recorder you can record mp3 streams from the Internet 
-for exemoke
+for exemple
 
 with different Users interfaces (UIs)
 1. Command-line interface (CLI)
